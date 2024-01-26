@@ -1,6 +1,6 @@
                             p {
                                 color: azure;
-                                font-size: 35pt;
+                                font-size: 12pt;
                                 font-family: arial, "lucida console", sans-serif;
                                 background-color: #262626;
                             }
@@ -13,14 +13,9 @@
                                 background-color: #262626;
                             }
                             
-                            h1 {
+                            tr {
                                 color: #a3f35c;
-                                font-size: 45pt;
+                                font-size: 12pt;
                                 font-family: arial, "lucida console", sans-serif;
                                 
-                            }
-.input-field {
-                                width: 70px;
-                                height: 60px;
-                                font-size: 50px;
                             }
