@@ -24,3 +24,6 @@ tr:nth-child(even) {
 tr:nth-child(odd) {
     background-color: #90aaf3;
                   }
+ tr:nth-last-child(4n) {
+      background-color: #0582e7;
+      color: #e90808; 
