@@ -26,4 +26,4 @@ tr:nth-child(odd) {
                   }
  tr:nth-last-child(4n) {
       background-color: #0582e7;
-      color: #e90808; 
+      -webkit-text-stroke: 1px rgb(31, 31, 32);
